@@ -1,5 +1,14 @@
 #footer{
     border-radius: 0px;
+   }
+
+body{
+    background-image: url("../imagenes/playstation fondo.jpg") ;   
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-position-y: 85%;
+     
 }
 
-.
+
+ 
